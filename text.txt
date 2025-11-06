@@ -13,10 +13,3 @@ j
 k
 l
 
-new module 
-m
-n
-o
-p
-q
-r
